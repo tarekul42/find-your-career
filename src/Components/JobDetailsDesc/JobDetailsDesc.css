@@ -1,0 +1,8 @@
+.detailsDescription{
+    color: var(--dark-03, #757575);
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 166.667% */
+}

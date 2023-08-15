@@ -1,0 +1,17 @@
+.jobTypesButton{
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    background: var(--linear, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-flex;
+    padding: 9px 19px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 4px;
+    border: 1px solid #9873FF ;
+}

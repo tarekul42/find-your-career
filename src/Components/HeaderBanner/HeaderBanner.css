@@ -1,0 +1,28 @@
+.banner-text{
+    color: var(--dark-01, #1A1919);
+    font-family: Manrope;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 100px; /* 125% */
+    font-family: Manrope;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 100px;
+}
+.banner-text-blue{
+    background: var(--linear, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.banner-description{
+    color: var(--dark-03, #757575);
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 166.667% */
+    padding-bottom: 12px;
+}

@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "image": "https://th.bing.com/th/id/OIP.xZy01t2g2X1yYA_GaCG7zQHaEL?w=279&h=180&c=7&r=0&o=5&pid=1.7",
+      "sector": "Technology",
+      "available_jobs": 150
+    },
+    {
+      "id": 2,
+      "image": "https://th.bing.com/th/id/OIP.rMLAgF-x-yPNr1ILl_kIzwHaE6?w=247&h=180&c=7&r=0&o=5&pid=1.7",
+      "sector": "Healthcare",
+      "available_jobs": 300
+    },
+    {
+      "id": 3,
+      "image": "https://th.bing.com/th/id/OIP.JYmTcWOpCULN0vmfP9YknwHaE7?w=262&h=180&c=7&r=0&o=5&pid=1.7",
+      "sector": "Finance",
+      "available_jobs": 200
+    },
+    {
+      "id": 4,
+      "image": "https://th.bing.com/th/id/OIP.XCa-8oO8XMMqWlHdmgMxzwHaEW?w=297&h=180&c=7&r=0&o=5&pid=1.7",
+      "sector": "Education",
+      "available_jobs": 100
+    }
+  ]
+  

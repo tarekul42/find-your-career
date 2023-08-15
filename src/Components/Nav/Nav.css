@@ -1,0 +1,17 @@
+.nav-link a{
+    color: var(--dark-03, #757575);
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 22px;
+}
+.web-name-title{
+    color: var(--dark-01, #1A1919);
+    font-family: Manrope;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}

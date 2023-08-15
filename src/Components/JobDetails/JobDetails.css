@@ -1,0 +1,24 @@
+.web-name-title{
+    color: var(--dark-01, #1A1919);
+    font-family: Manrope;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.applyNowButton{
+    border-radius: 8px;
+    background: var(--linear, linear-gradient(90deg, #7E90FE 0%, #9873FF 100%));
+    display: inline-flex;
+    justify-content: center;
+    padding: 19px 28px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 100%;
+}

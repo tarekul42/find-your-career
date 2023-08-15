@@ -1,0 +1,9 @@
+.common-header{
+    color: var(--dark-01, #1A1919);
+    font-family: Manrope;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding: 20px 0;
+}
