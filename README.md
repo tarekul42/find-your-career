@@ -1,15 +1,47 @@
-# React + Vite
+# Find Your Career
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A job board application built with React, featuring job listings, filtering, application tracking, and statistics visualization. Deployed on Surge.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://dramatic-trains.surge.sh](https://dramatic-trains.surge.sh)
 
+## Features
 
-* How much job available, they can check easily
-* Clients can find their job in feature section
-* Applied job section are added all job which applied
+- **Job listings**: Browse available jobs with filtering by category
+- **Featured jobs**: Highlighted job opportunities on the homepage
+- **Applied jobs tracking**: View all jobs you've applied to
+- **Statistics**: Visual charts showing application trends with Recharts
+- **Responsive design**: Tailwind CSS with mobile-first approach
 
-Live repo link: https://dramatic-trains.surge.sh/
+## Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Framework | React 18 + Vite 4 |
+| Routing | React Router DOM 6 |
+| Styling | Tailwind CSS 3 |
+| Charts | Recharts 2 |
+| Icons | Heroicons |
+| Deployment | Surge |
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Project Structure
+
+```
+src/
+├── Components/       # 20+ component directories
+│   ├── AppliedJobs/  # Applied jobs tracking
+│   ├── AvailableJobs/# Available job listings
+│   ├── FeaturedJobs/ # Featured job section
+│   ├── JobCategory/  # Job category filter
+│   └── Statistics/   # Charts and statistics
+├── App.jsx           # Main app with router
+└── main.jsx          # Entry point
+```
